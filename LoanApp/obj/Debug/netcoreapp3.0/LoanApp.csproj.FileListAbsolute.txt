@@ -1,0 +1,12 @@
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\bin\Debug\netcoreapp3.0\LoanApp.exe
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\bin\Debug\netcoreapp3.0\LoanApp.deps.json
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\bin\Debug\netcoreapp3.0\LoanApp.runtimeconfig.json
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\bin\Debug\netcoreapp3.0\LoanApp.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\bin\Debug\netcoreapp3.0\LoanApp.dll
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\bin\Debug\netcoreapp3.0\LoanApp.pdb
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\obj\Debug\netcoreapp3.0\LoanApp.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\obj\Debug\netcoreapp3.0\LoanApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\obj\Debug\netcoreapp3.0\LoanApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\obj\Debug\netcoreapp3.0\LoanApp.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\obj\Debug\netcoreapp3.0\LoanApp.dll
+C:\Users\Admin\Source\Repos\LoanApp\LoanApp\obj\Debug\netcoreapp3.0\LoanApp.pdb

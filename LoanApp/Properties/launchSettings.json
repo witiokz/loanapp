@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoanApp": {
+      "commandName": "Project",
+      "commandLineArgs": "3000 16.0 60"
+    }
+  }
+}
